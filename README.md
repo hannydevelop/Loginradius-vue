@@ -1,5 +1,7 @@
 # loginradius
 
+> This is a simple illustration of User authentication with Login radius in Vue.js Application
+
 ## Project setup
 ```
 npm install
